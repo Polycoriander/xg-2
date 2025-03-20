@@ -1,0 +1,5 @@
+person
+bird
+car
+cat
+plane
